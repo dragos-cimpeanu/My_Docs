@@ -4,13 +4,8 @@
     <title>Snowdrop</title>
     <body>
         <p><i>From Wikipedia, the free encyclopedia.</i></p>
-        <p><b>Snowdrop</b><indexterm>flowers<indexterm>spring<indexterm>snowdrop</indexterm></indexterm></indexterm>
-            is the common name for members of the <xref keyref="genus" format="dita"
-                >genus</xref>
-            <b>Galanthus</b>, a small genus of about 20 species in the family <b>Amaryllidaceae</b>;
-            snowdrops are among the first <xref keyref="bulb" format="dita">bulbs</xref> to
-            bloom in spring, although certain species flower in late autumn and winter.</p>
-        <image href="../../images/Snowdrop.jpg" scale="75"/>
+        <p/>
+        <p/>
         <p><b>Galanthus nivalis</b> is the best-known and most widespread representative of the
             genus <b>Galanthus</b>. It is native to a large area of Europe, stretching from the
             Pyrenees in the west, through France and Germany to Poland in the north, Italy, Northern
@@ -32,7 +27,4 @@
             leaves emerge from the
             soil<?oxy_comment_start author="John" timestamp="20120510T122717+0300" comment="We could add a phrase with information about snowdrop propagation."?>.<?oxy_comment_end?></p>
     </body>
-    <related-links>
-        <link href="iris.dita#iris"/>
-    </related-links>
 </topic>
