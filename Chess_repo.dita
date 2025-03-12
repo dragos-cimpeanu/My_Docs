@@ -3,7 +3,9 @@
 <topic id="Chess">
   <title>Chess Basics for Beginners</title>
   <body>
-    <p>Chess is a 2-player game that utilizes a chessboard and sixteen pieces of 6 types for each player. See Wikipedia for a basic history of the game of chess.</p>
+    <p><?oxy_comment_start author="Mary" timestamp="20250211T134321+0200" comment="@&quot;Tom&quot;, could you write about the period when chess first appeared?"?>Chess<?oxy_comment_end?>
+      is a 2-player game that utilizes a chessboard and sixteen pieces of 6 types for each player.
+      See Wikipedia for a basic history of the game of chess.</p>
     <p>
       <dl>
         <dlentry>
