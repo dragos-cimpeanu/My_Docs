@@ -1,4 +1,4 @@
-# Chess Basics for Beginners
+# Chess Basics for Beginners     
 
 Chess is a two-player game that utilizes a chessboard and sixteen pieces of six types for each player. See Wikipedia for a basic history of the game of chess.
 
