@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_h1m_x5b_fhc">
+    <title>Container At-rule</title>
+    <body>
+    <p>The <codeph>@container</codeph> CSS at-rule is a conditional group rule that applies styles
+      to a containment context. Style declarations are filtered by a condition and applied to the
+      container if the condition is true. The condition is evaluated when the queried container
+      size, <codeph>&lt;style-feature></codeph>, or scroll-state changes.</p>
+    <p><b>Example
+      Syntax</b><codeblock id="codeblock_o3z_kvb_fhc" outputclass="language-css">@container (width > 400px) {
+  h2 {
+    		font-size: 1.5em;
+    font-weight: bold;
+  }
+}</codeblock></p>
+    </body>
+</topic>
