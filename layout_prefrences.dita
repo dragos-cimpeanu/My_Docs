@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="application_layout_options">
+    <title>Application Layout Options</title>
+    <body>
+        <p>The <uicontrol>Application Layout</uicontrol> preferences allow you to customize the arrangement and behavior of the application's user interface. The following options are available:</p>
+        <dl>
+            <dlentry>
+                <dt>Select application layout</dt>
+                <dd>
+                    Choose how the application's layout is configured:
+                    <ul>
+                        <li>
+                            <uicontrol>Default</uicontrol>: Uses the standard layout provided by the application.
+                        </li>
+                        <li>
+                            <uicontrol>Predefined</uicontrol>: Allows selection of a predefined layout (option is disabled in the current view).
+                        </li>
+                        <li>
+                            <uicontrol>Custom</uicontrol>: Lets you specify a custom layout configuration file.
+                        </li>
+                    </ul>
+                </dd>
+            </dlentry>
+            <dlentry>
+                <dt>Reset layout at startup</dt>
+                <dd>If selected, the application layout will be reset to the chosen configuration each time the application starts.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Remember layout changes for each project</dt>
+                <dd>If enabled, the application will remember and restore layout changes individually for each project.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>Allow detaching of editors from main window</dt>
+                <dd>If checked, editors can be detached and moved outside the main application window, allowing for a more flexible workspace.</dd>
+            </dlentry>
+            <dlentry>
+                <dt>View tab placement</dt>
+                <dd>
+                    Determines the position of view tabs within the interface:
+                    <ul>
+                        <li>
+                            <uicontrol>Top</uicontrol>: Places view tabs at the top of the view area.
+                        </li>
+                        <li>
+                            <uicontrol>Bottom</uicontrol>: Places view tabs at the bottom of the view area (selected by default).
+                        </li>
+                    </ul>
+                </dd>
+            </dlentry>
+            <dlentry>
+                <dt>Editor tab placement</dt>
+                <dd>
+                    Sets the position of editor tabs:
+                    <ul>
+                        <li>
+                            <uicontrol>Top</uicontrol>: Places editor tabs at the top of the editor area (selected by default).
+                        </li>
+                        <li>
+                            <uicontrol>Bottom</uicontrol>: Places editor tabs at the bottom of the editor area.
+                        </li>
+                    </ul>
+                </dd>
+            </dlentry>
+        </dl>
+        <p>
+            <b>Note:</b> To apply these changes, you must restart the application.
+        </p>
+    </body>
+</topic>
